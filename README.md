@@ -1,0 +1,1 @@
+In this project I have created a webpage (i.e a landing page) of a clothing website named "Fauxica" which has various sections. The cards show hover effect. That's it, its the most basic page just for understanding of how web pages work.
